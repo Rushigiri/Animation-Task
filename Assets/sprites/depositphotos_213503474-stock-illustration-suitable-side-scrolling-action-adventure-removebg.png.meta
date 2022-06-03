@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: e654e95552a0ea64a81c9dd104668c63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7589047948915212050
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_0
+  - first:
+      213: -4902930262236800113
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_1
+  - first:
+      213: -1129729976748089421
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_2
+  - first:
+      213: -1775706954274092930
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_3
+  - first:
+      213: 480477694506281541
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_4
+  - first:
+      213: -3001396953532705291
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_5
+  - first:
+      213: -5716720019710758072
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_6
+  - first:
+      213: 6813612519144743962
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_7
+  - first:
+      213: 4580740126343946033
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_8
+  - first:
+      213: -2757641758383446305
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_9
+  - first:
+      213: 2917171696138927618
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_10
+  - first:
+      213: -5997366628016067450
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_11
+  - first:
+      213: -5558756711461302749
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_12
+  - first:
+      213: 3560171252711332210
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_13
+  - first:
+      213: -4169447035192752303
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_14
+  - first:
+      213: -8755040983790173495
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_15
+  - first:
+      213: 3815870404634432559
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_16
+  - first:
+      213: 1751786752016040404
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_17
+  - first:
+      213: 7414258347594416477
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_18
+  - first:
+      213: 367899192752156836
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_19
+  - first:
+      213: 5417794278663895361
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_20
+  - first:
+      213: -2328372276418998253
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_21
+  - first:
+      213: 9100754319332832823
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_22
+  - first:
+      213: -783677318475604570
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_23
+  - first:
+      213: -2922340782941397175
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_24
+  - first:
+      213: -573461127297821250
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_25
+  - first:
+      213: 3672562026604461716
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_26
+  - first:
+      213: 2248619691171399143
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_27
+  - first:
+      213: 5618473681390889302
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_28
+  - first:
+      213: -6231722531102971001
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_29
+  - first:
+      213: -837220136958034241
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_30
+  - first:
+      213: -3890370678235985566
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_31
+  - first:
+      213: 5666453020415471528
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_32
+  - first:
+      213: 1654853742136301432
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_33
+  - first:
+      213: -6023500870031388292
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_34
+  - first:
+      213: 3334512361802830650
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_35
+  - first:
+      213: 2096910025136321744
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_36
+  - first:
+      213: -7018995345811942058
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_37
+  - first:
+      213: -1682566361199490538
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_38
+  - first:
+      213: 8407945150413948245
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_39
+  - first:
+      213: -9060176706768325042
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_40
+  - first:
+      213: -2765157851682057561
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_41
+  - first:
+      213: 2904512232908820066
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_42
+  - first:
+      213: 1614136815294572574
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_43
+  - first:
+      213: -1403547757310491988
+    second: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 861
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0808559194ea690800000000000000
+      internalID: -7589047948915212050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 861
+        width: 93
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bdcd047ea45fbb0800000000000000
+      internalID: -4902930262236800113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 861
+        width: 90
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd1db52946250f0800000000000000
+      internalID: -1129729976748089421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 861
+        width: 91
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e784d45eeeb6b57e0800000000000000
+      internalID: -1775706954274092930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 861
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aab8fdaeffaa600800000000000000
+      internalID: 480477694506281541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 861
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55eb27f55e856d0800000000000000
+      internalID: -3001396953532705291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 861
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b6c83e612aa0b0800000000000000
+      internalID: -5716720019710758072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 861
+        width: 168
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14e6c07c70de8e50800000000000000
+      internalID: 6813612519144743962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 861
+        width: 168
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fdb1700ee029f30800000000000000
+      internalID: 4580740126343946033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 861
+        width: 167
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd665cd6e63eab9d0800000000000000
+      internalID: -2757641758383446305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 662
+        width: 145
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3f29a330eb7820800000000000000
+      internalID: 2917171696138927618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 662
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce155c3d215cca0800000000000000
+      internalID: -5997366628016067450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 662
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec784f8345bd2b0800000000000000
+      internalID: -5558756711461302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 662
+        width: 145
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799a6944e4486130800000000000000
+      internalID: 3560171252711332210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 662
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c78d13062326c0800000000000000
+      internalID: -4169447035192752303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 662
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c243378c98df7680800000000000000
+      internalID: -8755040983790173495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 662
+        width: 94
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2459296ae1b4f430800000000000000
+      internalID: 3815870404634432559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 803
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c62405c89f4810800000000000000
+      internalID: 1751786752016040404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 801
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5107594facb4e660800000000000000
+      internalID: 7414258347594416477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 797
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03529dd5a0b1500800000000000000
+      internalID: 367899192752156836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 803
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b7e5113fdf2b40800000000000000
+      internalID: 5417794278663895361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 789
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109d2730c5ffafd0800000000000000
+      internalID: -2328372276418998253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 778
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367fe7e5df5c4e70800000000000000
+      internalID: 9100754319332832823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 662
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1bb581a1df15f0800000000000000
+      internalID: -783677318475604570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 662
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f14288a82c177d0800000000000000
+      internalID: -2922340782941397175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 434
+        width: 126
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51bee9428aa08f0800000000000000
+      internalID: -573461127297821250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 499
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef85384bf87f230800000000000000
+      internalID: 3672562026604461716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 540
+        width: 138
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5483702b3b43f10800000000000000
+      internalID: 2248619691171399143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 495
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596f279b04d8fd40800000000000000
+      internalID: 5618473681390889302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 539
+        width: 138
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b2fc200697489a0800000000000000
+      internalID: -6231722531102971001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 499
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeffc1a8b89164f0800000000000000
+      internalID: -837220136958034241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 463
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269062fea70a20ac0800000000000000
+      internalID: -3890370678235985566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 410
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afad4afff843ae40800000000000000
+      internalID: 5666453020415471528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 387
+        width: 89
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877924fe5b837f610800000000000000
+      internalID: 1654853742136301432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 386
+        width: 133
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d5816fd9386ca0800000000000000
+      internalID: -6023500870031388292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3318687351964e20800000000000000
+      internalID: 3334512361802830650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 162
+        width: 134
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b436de88b91d10800000000000000
+      internalID: 2096910025136321744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 136
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65552c4dbe4879e90800000000000000
+      internalID: -7018995345811942058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 162
+        width: 137
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61acea12fc256a8e0800000000000000
+      internalID: -1682566361199490538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 162
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555446d21950fa470800000000000000
+      internalID: 8407945150413948245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 162
+        width: 135
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463eceb949c34280800000000000000
+      internalID: -9060176706768325042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 162
+        width: 134
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2db96959f20a9d0800000000000000
+      internalID: -2765157851682057561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 162
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e8e40bc76ee4820800000000000000
+      internalID: 2904512232908820066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 162
+        width: 159
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e186386a1e0966610800000000000000
+      internalID: 1614136815294572574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_213503474-stock-illustration-suitable-side-scrolling-action-adventure-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 162
+        width: 164
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2463440c8958ce0800000000000000
+      internalID: -1403547757310491988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
